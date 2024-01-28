@@ -107,7 +107,7 @@ I started off from his code and made the following changes:
 
 It was fun to program in C++ again, after 20 years.
 
-Of course, I published my software at GitHub too.
+Of course, I published my software at [GitHub](https://github.com/MagicSmokeBlog/Philips-PM2535-Kermit) too.
 
 You can compile the software by opening [Software/PM25XX_OLED/PM25XX_OLED.ino](Software/PM25XX_OLED/PM25XX_OLED.ino) in
 Arduino IDE. You must install the U8g2 library.
@@ -169,7 +169,7 @@ Cut the pieces from the PCB of the OLED display module as shown in the photo bel
 
 #### Step 5: Assembling the Front Assembly
 
-glue the 3D printed frame on the OLED display module. I applied hot glue as strain release for the flat cable, as well.
+Glue the 3D printed frame on the OLED display module. I applied hot glue as strain release for the flat cable, as well.
 
 ![OLED Display in Frame](Resources/oled-display-in-frame.jpg "OLED Display in Frame")
 
@@ -195,7 +195,7 @@ The photo below shows how everything fits needly in the multimeter.
 
 ![Assembled](Resources/assembled.jpg "Assembled")
 
-#### Step 7:
+#### Step 7: 
 
 Enjoy your Philips PM2535 System Multimeter. The result is shown in the first photo at this README.md.
 
@@ -252,9 +252,9 @@ starting point for display replacements.
 
 * https://www.eevblog.com/forum/repair/philips-pm2525-alternative-lcd-display/
 * https://www.eevblog.com/forum/testgear/fluke-pm2525pm2535-unobtainium-lcd-alternative/
+* https://www.eevblog.com/forum/repair/unobtainium-philips-pm2525-pm2534-and-pm2535-lcd-replacement/
 
 ### Software
-
 * https://github.com/AKerambrun/PM2525-OLED-display
 * https://github.com/olikraus/u8g2
 
