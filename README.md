@@ -146,7 +146,7 @@ a [PC/104 pin header](https://en.wikipedia.org/wiki/PC/104) on a piece of Matrix
 
 #### Step 3: Assemble Baseplate
 
-Insert M2*3*3.5 brass threaded insert nuts in the four standoffs, glue the M3*5*4 in brass threaded insert nut in the
+Insert `M2*3*3.5` brass threaded insert nuts in the four standoffs, glue the `M3*5*4` in brass threaded insert nut in the
 baseplate, and glue the standoffs onto the baseplate.
 
 ![Assembled Baseplate](Resources/baseplate-assembled.jpg "Assembled Baseplate")
