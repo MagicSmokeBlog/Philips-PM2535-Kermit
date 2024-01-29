@@ -228,7 +228,8 @@ The Philips PM2525, PM2534, and PM2535 multimeter have (nearly) identical LCD la
 
 Other Philips equipment with LCD are:
 
-* PM2521: This automatic multimeter has three SAA1060 LED display drivers.
+* PM2519: This automatic multimeter has two OQ0070T LCD drivers.
+* PM2521: This automatic multimeter has three SAA1062 LCD drivers.
 * PM2544: We don't have any information about this logic multimeter.
 
 These meters have different LCD layout and have different LCD driver ICs; however, you can use this project as a
